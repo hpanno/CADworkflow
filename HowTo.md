@@ -26,7 +26,6 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- C://>Users>Hpanno>Launch BeyondCompare
 		- Create a zip file of the MasterMapGDB
 		- Compare: CALFIRE v SLU_CAD
-    
- </code></pre>(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)</code></pre>
+    <bol>(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)</bol>
 	
 
