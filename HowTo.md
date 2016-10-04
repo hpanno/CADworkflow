@@ -68,7 +68,21 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Right click and 'edit' the tool > Validate > Run --> this has just populated the roads features class
 		Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
 		
+		Preparing Data
+		- Make a zip of the MasterMapGBD to put back on the 99 Machine. Put on Stick. 
+		
+	Arc Tips:
+		- Add imageryGISServer> arcgis on prvgis1> aerials>2014combined
+		- Roads with a 4 digit Seg ID are county roads. If you ever have to make an edit to one of these roads let BJC know.
+		- Roads can never have a connection through an intersection.
 
+---
+###Pushing Updated Road Data to CAD
+
+	Goal:
+		-
+	1. 
+		-
     
 	
 
