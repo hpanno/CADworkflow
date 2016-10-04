@@ -51,6 +51,19 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Push all of the edits back to the county.
 		- Run a model to convert this updated roads layer to reformat it to a schema CAD understands.
     
+    	1. GitHub
+		- Refer to CAD issues on GitHub to see issues being tracked by the ECC.
+	2. In Arc
+		- Pull in your version of the Roads layer from TRN.
+		- Start Editing > Click Reconcile (favor by object; favor the Target Version) > Make edits > Save edits after each edit 		made. 
+		- Create a backup of this newest version of the roads layer > Export to Y://_data>Transportation.
+		
+		CAL FIRE to CAD
+		- In Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extentr delete the current roads that the CAD system is using.
+		- Bring in the Y:\_data\SLU\SLU_CAD\SLU_CAD_ROADS_SHELL.gdb\Roads_shell (which has CAD preferred schema) to The viewer
+		- Copy and paste the Roads_Shell into the mastermap GDB and rename to ‘roads’
+		Y://data>Tools>CAL_FIRE_CAD toolbax – expand> edit>validate> run>
+
     
 	
 
