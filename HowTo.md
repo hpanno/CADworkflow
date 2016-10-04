@@ -12,7 +12,6 @@ You need to utilize 2 different netowrks and different computers to complete thi
 	
 #####Other Items to know about:
 	- Beyond Compare is located: C://>Users>Hpanno>Launch BeyondCompare
-		**(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
 	- Old X is now the Z://
 ---
 ###Logging On to the 99 Machine
@@ -36,7 +35,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- C://>Users>Public>PublicDocuments>CALFIRE
 	2. Navigate to the MasterMap.GDB
 		- Create a zip file of the MasterMapGDB.
-		- Overwrite the old MasterMapGDB.zip on Old X with the new one you just made.
+		- Using Beyond Compare, Overwrite the old MasterMapGDB.zip on Old X with the new one you just made (stored locally on the 			99 Machine.
+			+ **(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
 		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to one of them. 
 		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder.
 		- Put the other zipped up version of the GDB (the one without the date) on a thumbdrive.
