@@ -59,13 +59,14 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Create a backup of this newest version of the roads layer > Export to Y://_data>Transportation.
 		
 		CAL FIRE to CAD
-		- In Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extentr delete the current roads that the CAD system is using.
+		- In Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent delete the current roads that the CAD system is using.
 		- Bring in the Y:\_data\SLU\SLU_CAD\SLU_CAD_ROADS_SHELL.gdb\Roads_shell (which has CAD preferred schema) to The viewer
 		- Copy and paste the Roads_Shell into the mastermap GDB and rename to ‘roads’
 		
 		Run the Model
 		- Located: Y:\_data\Tools\CAL_FIRE_CAD.tbx\SLOCO_to_SLU_CAD
-		- Right click and 'edit' the tool > Validate > Run
+		- Right click and 'edit' the tool > Validate > Run --> this has just populated the roads features class Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
+		
 
     
 	
