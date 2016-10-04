@@ -5,6 +5,8 @@
     a.	Computer: slucad99
     b.	User name: 
   3.	Enter in Credentials → UN/PW
+
+
 ---
 ###Creating a Backup on the 99 Machine
   1.	MasterMapGDB is located:
