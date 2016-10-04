@@ -15,6 +15,6 @@
     a.	C://>Users>Hpanno>Launch BeyondCompare
     b.	Create a zip file of the MasterMapGDB
     c.	Compare: CALFIRE v SLU_CAD
-    →(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)
+    >(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)
 	
 
