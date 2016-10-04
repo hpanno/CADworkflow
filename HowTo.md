@@ -13,6 +13,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 #####Other Items to know about:
 	- Beyond Compare is located: C://>Users>Hpanno>Launch BeyondCompare
 	- Old X is now the Z://
+	- Need to be connected to TRN. It would be helpful to create 2 connections. One connection is to the CAL FIRE Editing Version and 		the other connection is to the Default. The default is only used as reference. 
 ---
 ###Logging On to the 99 Machine
 
@@ -25,7 +26,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 ---
 ###Creating a Backup on the 99 Machine and Prepping CAD Road dData for Editing
 
-	Here we will:
+	Goal:
 		- Create a back up of the road data currently being used in CAD in two places:
 			+ On Old X
 			+ On the 99 Machine
@@ -38,12 +39,17 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Using Beyond Compare, Overwrite the old MasterMapGDB.zip on Old X with the new one you just made (stored locally on the 			99 Machine.
 			+ **(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
 		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to the copy. 
-		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder (located in the root of C://>Users>Public>PublicDocuments>CALFIRE).
+		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder.
 		- Put the other zipped up version of the GDB (the one without the date) on a thumbdrive.
 		
 ---
 ###Editing the MasterMap.GDB
-		
+
+	Goal:
+		- Refernce GitHub to makes edits to the MasterMap.GDB we just pulled from the 99 machine. 
+		- Incorporate the most recent version of the county roads to our edits.
+		- Push all of the edits back to the county.
+		- Run a model to convert this updated roads layer to reformat it to a schema CAD understands.
     
     
 	
