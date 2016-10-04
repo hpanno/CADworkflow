@@ -80,9 +80,11 @@ You need to utilize 2 different netowrks and different computers to complete thi
 ###Pushing Updated Road Data to CAD
 
 	Goal:
-		-
-	1. 
-		-
+		- To push updated road layer to CAD.
+	
+	1. Putting Updated Road Layer on the 99 Machine
+		- Remember, the road data can only be transferred from the Old X to 99. So, replace the mastermap GDB.zip on the old X (Data_SLU_SLUCAD) with the mastermap GDB.zip on the stick) via beyond compare
+		- 
     
 	
 
