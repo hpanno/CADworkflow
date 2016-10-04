@@ -5,8 +5,8 @@ The Goal with this workflow is to replace the existing road layer in CAD with an
 ###Getting Started/Basics
 You need to utilize 2 different netowrks and different computers to complete this process. 
 
-	| Laptop        | County Network           | To access CAD on the 99 machine  |
-	| County Machine      | County Network | To make the County Road edits|
+	Laptop|County Network|To access CAD on the 99 machine|
+	County Machine|County Network|To make the County Road edits|
 
 ---
 ###Logging On to the 99 Machine
