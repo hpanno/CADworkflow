@@ -1,7 +1,15 @@
+###Purpose and Overview
+The Goal with this workflow is to replace the existing road layer in CAD with an updated version. The ECC tracks changes that need to be made in CAD in GitHub. We need to apply these edits to the current MasterMapGBD that is in CAD, as well as to the most current version of the county roads layer. 
+
+---
+###Getting Started/Basics
+
+
+---
 ###Logging On
 
   1. ‘Cisco AnyConnect VPN Client’ → UN/PW
-  2.	‘Remote Desktop Connection’ →
+  2.	‘Remote Desktop Connection’
     a.	Computer: slucad99
     b.	User name: 
   3.	Enter in Credentials → UN/PW
