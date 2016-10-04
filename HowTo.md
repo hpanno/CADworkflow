@@ -10,7 +10,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 	Laptop         | County Network | To access CAD on the 99 machine |
 	County Machine | County Network | To make the County Road edits   |
 	
-####Other Items to know about:
+#####Other Items to know about:
 	- Beyond Compare is located: C://>Users>Hpanno>Launch BeyondCompare
 		**(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
 	- Old X is now the Z://
@@ -24,7 +24,12 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- UN/PW 
 
 ---
-###Creating a Backup on the 99 Machine
+###Creating a Backup on the 99 Machine and Prepping CAD Road dData for Editing
+Here we will:
+- Create a back up of the road data currently being used in CAD in two places:
+	1. On Old X
+	2. On the 99 Machine
+- Put this data on a stick to be edited on the County Machine.
 
 	1. MasterMapGDB is located:
 		- C://>Users>Public>PublicDocuments>CALFIRE
@@ -33,6 +38,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Overwrite the old MasterMapGDB.zip on Old X with the new one you just made.
 		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to one of them. 
 		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder.
+		- Put the other zipped up version of the GDB (the one without the date) on a thumbdrive.
+	
 		
 ---
 ###Editing the MasterMap.GDB
