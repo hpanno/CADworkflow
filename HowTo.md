@@ -12,8 +12,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 
 	1. ‘Cisco AnyConnect VPN Client’ → UN/PW
 	2. ‘Remote Desktop Connection’
-		a.Computer: slucad99
-		b.User name: 
+		- Computer: slucad99
+		- User name: 
 	3. Enter in Credentials → UN/PW
 
 
@@ -21,11 +21,11 @@ You need to utilize 2 different netowrks and different computers to complete thi
 ###Creating a Backup on the 99 Machine
 
 	1. MasterMapGDB is located:
-		a. C://>Users>Public>PublicDocuments>CALFIRE
+		- C://>Users>Public>PublicDocuments>CALFIRE
 	2. Navigate to 
-		a. C://>Users>Hpanno>Launch BeyondCompare
-		b. Create a zip file of the MasterMapGDB
-		c. Compare: CALFIRE v SLU_CAD
+		- C://>Users>Hpanno>Launch BeyondCompare
+		- Create a zip file of the MasterMapGDB
+		- Compare: CALFIRE v SLU_CAD
     
  </code></pre>(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)</code></pre>
 	
