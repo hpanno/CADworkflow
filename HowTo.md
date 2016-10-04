@@ -5,7 +5,9 @@ The Goal with this workflow is to replace the existing road layer in CAD with an
 ###Getting Started/Basics
 You need to utilize 2 different netowrks and different computers to complete this process. 
 
-	1. 
+	| Laptop        | County Network           | -  |
+| ------------- |:-------------:| -----:|
+| County Machine      | County Network | -|
 
 ---
 ###Logging On to the 99 Machine
@@ -26,6 +28,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- C://>Users>Hpanno>Launch BeyondCompare
 		- Create a zip file of the MasterMapGDB
 		- Compare: CALFIRE v SLU_CAD
-    <b>(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)</b>
+    **(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
+    
 	
 
