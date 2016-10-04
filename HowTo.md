@@ -31,6 +31,7 @@ Here we will:
 	2. On the 99 Machine
 - Put this data on a stick to be edited on the County Machine.
 
+	<pre><code>
 	1. MasterMapGDB is located:
 		- C://>Users>Public>PublicDocuments>CALFIRE
 	2. Navigate to the MasterMap.GDB
@@ -39,7 +40,7 @@ Here we will:
 		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to one of them. 
 		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder.
 		- Put the other zipped up version of the GDB (the one without the date) on a thumbdrive.
-	
+	</code></pre>
 		
 ---
 ###Editing the MasterMap.GDB
