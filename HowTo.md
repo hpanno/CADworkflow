@@ -65,7 +65,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		
 		Run the Model
 		- Located: Y:\_data\Tools\CAL_FIRE_CAD.tbx\SLOCO_to_SLU_CAD
-		- Right click and 'edit' the tool > Validate > Run --> this has just populated the roads features class Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
+		- Right click and 'edit' the tool > Validate > Run --> this has just populated the roads features class
+		Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
 		
 
     
