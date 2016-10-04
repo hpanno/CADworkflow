@@ -37,8 +37,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Create a zip file of the MasterMapGDB.
 		- Using Beyond Compare, Overwrite the old MasterMapGDB.zip on Old X with the new one you just made (stored locally on the 			99 Machine.
 			+ **(C://>Users>Public>PublicDocuments>CALFIRE Vs sftp://root@slugis.duckdns.org//mnt/ds/share_data/SLU/SLU_CAD)**
-		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to one of them. 
-		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder.
+		- Back in Windows Explorer, make a copy of this zipped up GDB and add today's date to the copy. 
+		- Click and Drag the MasterMapTODAYSDATE.GDB into the BackUps Folder (located in the root of C://>Users>Public>PublicDocuments>CALFIRE).
 		- Put the other zipped up version of the GDB (the one without the date) on a thumbdrive.
 		
 ---
