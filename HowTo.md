@@ -8,7 +8,6 @@ You need to utilize 2 different netowrks and different computers to complete thi
 	Hardware       |Network         |Purpose                          |
 	---------------|----------------|---------------------------------|
 	Laptop         | County Network | To access CAD on the 99 machine |
-	---------------|----------------|---------------------------------|
 	County Machine | County Network | To make the County Road edits   |
 
 ---
