@@ -56,7 +56,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 	2. In Arc
 		- Pull in your version of the Roads layer from TRN.
 		- Start Editing > Click Reconcile (favor by object; favor the Target Version) > Make edits > Save edits after each edit 		made. 
-		- Create a backup of this newest version of the roads layer > Export to Y://_data>Transportation.
+		- Create a backup of this newest version of the roads layer. Replace the current "ROADS_ALL" features class in
+		Y:\\_data\Transportation\TRN_ROADS_ALL.gdb\ROADS_ALL with the newst version that was jsut edited. 
 		
 		CAL FIRE to CAD
 		- In Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent delete the current roads that the CAD system is using.
@@ -67,6 +68,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Located: Y:\_data\Tools\CAL_FIRE_CAD.tbx\SLOCO_to_SLU_CAD
 		- Right click and 'edit' the tool > Validate > Run --> this has just populated the roads features class
 		Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
+		- Don't save the model when you close out.
 		
 		Preparing Data
 		- Make a zip of the MasterMapGBD to put back on the 99 Machine. Put on Stick. 
