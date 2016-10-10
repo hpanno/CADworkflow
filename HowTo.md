@@ -123,7 +123,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- For Testing Routes:
 			+ Mail Icon = locate. Type in an address and select "Center"
 			
-		Once you're tested the changes you've made and it all looks goovy:
+		Once you've tested the changes you've made and it all looks goovy:
 		- Open GUT and select the radio button for "Live". Close out of GUT.
 		- Open GDI. In the Conversion Tab select "Copy files to ADS".
 		- In the AVRR Tab select "Create" and then "Load" to push the updated layer to Live CAD.
