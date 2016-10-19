@@ -82,6 +82,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Add imageryGISServer> arcgis on prvgis1> aerials>2014combined
 		- Roads with a 4 digit Seg ID are county roads. If you ever have to make an edit to one of these roads let BJC know.
 		- Roads can never have a connection through an intersection.
+		- For labeling address ranges: [NAME]  & vbnewline & +"LF, LT: " +[L_F_ADD]+"-" +[L_T_ADD]  & vbnewline & +"RF, 
+		RT: " +[R_F_ADD]+"-" + [R_T_ADD] 
 
 ---
 ###Pushing Updated Road Data to CAD
