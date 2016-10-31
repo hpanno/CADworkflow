@@ -94,7 +94,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 	1. Putting Updated Road Layer on the 99 Machine
 		- Remember, the road data can only be transferred from the Old X to 99. So, replace the mastermap GDB.zip on the old X
 		(Data_SLU_SLUCAD) with the mastermap GDB.zip on the stick) via beyond compare
-		- On local laptop: Thumbdrive <--> SLU\SLU_CAD
+		- Locally on laptop: Thumbdrive <--> SLU\SLU_CAD
 		- Remotely on 99: SLU\SLU_CAD <--> C:\Users\Public\Documents\CALFIRE
 		- Refer to Section 18 in the "_w7" documentation. 
 		
