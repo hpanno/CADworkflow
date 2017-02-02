@@ -118,7 +118,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Open GDI. 
 		- On the Conversion Tab> Select "Start"
 		^^ This is going to take 2-3 hous.^^
-		- When the process has successfully complete click on "Copy files to ADS"
+		- When the process has successfully complete click on "Copy files to ADS" (On the conversion tab)
 		- On the AVRR Tab Select "Create" then "Load"
 		
 		TEST your edits. Open the VIEW MAP AVRR TEST application. 
