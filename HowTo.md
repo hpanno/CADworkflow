@@ -108,6 +108,7 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		In an error pops up navigate (in Arc) to the file path given. Bring the "Road Errors" layer into the data frame. A text
 		file with the errors will automatically pop up explaining the errors. Save this error message to reference later on when
 		verifying your edits have been made. Once you have addressed all the errors:
+			(StreetSegmentID is referring to the object ID)
 		
 		- Save Edits and close ArcMap.
 		- Open GUT and re reun "Start Validation" (make sure you are still in TEST). 
