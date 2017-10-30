@@ -98,6 +98,8 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		- Remotely on 99: SLU\SLU_CAD <--> C:\Users\Public\Documents\CALFIRE
 		- Refer to Section 18 in the "_w7" documentation. 
 		
+		-Once you get the MasterMapDatabase over on the 99 machine, view the data in ArcMap. Change all '0' Speed Limits to '-1'. Otherwise, GUT will throw an error.
+		
 		- Open up GUT from Desketop. 
 		- Select radio button for "Test". ALWAYS start with Test i.e. ALWAYS tell GUT to push roads to the TEst Environment
 		first.
