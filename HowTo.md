@@ -75,6 +75,9 @@ You need to utilize 2 different netowrks and different computers to complete thi
 		Y:\_data\SLU\SLU_CAD\Mastermap.gdb\Extent
 		- Don't save the model when you close out.
 		
+		EXTRA STEP:
+		- Change all '0' speed limits to '-1' otherwise, you will get an error in GUT.
+		
 		Preparing Data
 		- Make a zip of the MasterMapGBD to put back on the 99 Machine. Put on Stick. 
 		
