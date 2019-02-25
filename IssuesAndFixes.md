@@ -10,3 +10,6 @@ There were no records available in the table on which to perform the operation. 
 
 Solution
 Use Get Count to return the number of available records or features within the input dataset. If the input is a layer or table view and there is a selection, it will return the number of selected records or features. Reexamine the query used to create the selection to ensure it is correct.
+
+
+Get Count confirms that there are only 30 records available. Make sure there are no selections on your data. Check for any specific patterns to the data that DID transfer over. I couldn't find any specific patterns in this case. I tried selecting all Roads from the County SDE before exporting to ROADS_ALL & I tried selecting all roads in ROADS_ALL before running the model -- neither of these helped. I ended up starting a new instance of ArcMap and ran the model without pulling any of the participating layers into the data view and the model then successfully ran.  
